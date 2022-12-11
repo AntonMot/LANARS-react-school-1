@@ -34,3 +34,5 @@
 # Development server
 
 Run `npm start` for a dev server
+
+Project page: https://antonmot.github.io/LANARS-react-school-1/
